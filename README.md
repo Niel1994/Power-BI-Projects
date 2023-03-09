@@ -1,5 +1,4 @@
 # Power-BI-Projects
-Power BI Projects developed by me.
 The attached file includes the insights about the patients diagnosed at Clinic.
 The various attributes about the patients and the history is recorded.
 Insights developed:
